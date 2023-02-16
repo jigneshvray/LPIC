@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "0965a7e5982f5284",
+    "type": "split",
+    "children": [
+      {
+        "id": "9251f8939dc1ae26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5124e3d3290abf7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Linux Distros..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4026de1db48ada6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0de9746497db12c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a018541112eeb9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15fe8e8d2a5afeb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "518a9724c90fe9dd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d65699e86079744",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd794dff95520985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "244bec413b375254",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Linux Distros..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc83b10fc2dfa861",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Linux Distros..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3223f54ca59b30a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2badb68dd0a8fb92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Linux Distros..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5124e3d3290abf7f",
+  "lastOpenFiles": [
+    "25..md",
+    "24. dpkg.md",
+    "23. Locating Library Files.md",
+    "22. Shared Libraries.md",
+    "21. Additional Boot Loaders.md",
+    "20. The GRUB2 Boot Loader.md",
+    "19. The GRUB Boot Loader.md",
+    "18. The LILO Boot Loader.md",
+    "17. Logical Volume Manager.md",
+    "16. Mount Points.md"
+  ]
+}
